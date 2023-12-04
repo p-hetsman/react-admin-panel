@@ -1,4 +1,4 @@
-# your-admin-name
+#admin panel
 
 ## Installation
 
